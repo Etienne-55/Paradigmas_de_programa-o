@@ -1,1 +1,1 @@
-# Paradigmas_de_programa-o
+Repositório para atividades da matéria paradigmas de linguagens de programação.
